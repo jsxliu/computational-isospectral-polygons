@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite the version you used."
+type: software
+title: "Computational Isospectral Polygons"
+authors:
+  - family-names: "Liu"
+    given-names: "Jonathan"
+version: "1.0"
+url: "https://github.com/jsxliu/computational-isospectral-polygons"
+repository-code: "https://github.com/jsxliu/computational-isospectral-polygons"
+license: MIT
